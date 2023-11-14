@@ -1,0 +1,12 @@
+/home/anton/Загрузки/test/ClassLibraryCallkulate/bin/Debug/net7.0/ClassLibraryCallkulate.deps.json
+/home/anton/Загрузки/test/ClassLibraryCallkulate/bin/Debug/net7.0/ClassLibraryCallkulate.dll
+/home/anton/Загрузки/test/ClassLibraryCallkulate/bin/Debug/net7.0/ClassLibraryCallkulate.pdb
+/home/anton/Загрузки/test/ClassLibraryCallkulate/obj/Debug/net7.0/ClassLibraryCallkulate.csproj.AssemblyReference.cache
+/home/anton/Загрузки/test/ClassLibraryCallkulate/obj/Debug/net7.0/ClassLibraryCallkulate.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/Загрузки/test/ClassLibraryCallkulate/obj/Debug/net7.0/ClassLibraryCallkulate.AssemblyInfoInputs.cache
+/home/anton/Загрузки/test/ClassLibraryCallkulate/obj/Debug/net7.0/ClassLibraryCallkulate.AssemblyInfo.cs
+/home/anton/Загрузки/test/ClassLibraryCallkulate/obj/Debug/net7.0/ClassLibraryCallkulate.csproj.CoreCompileInputs.cache
+/home/anton/Загрузки/test/ClassLibraryCallkulate/obj/Debug/net7.0/ClassLibraryCallkulate.dll
+/home/anton/Загрузки/test/ClassLibraryCallkulate/obj/Debug/net7.0/refint/ClassLibraryCallkulate.dll
+/home/anton/Загрузки/test/ClassLibraryCallkulate/obj/Debug/net7.0/ClassLibraryCallkulate.pdb
+/home/anton/Загрузки/test/ClassLibraryCallkulate/obj/Debug/net7.0/ref/ClassLibraryCallkulate.dll
